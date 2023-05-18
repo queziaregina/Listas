@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    background: rgb(231, 245, 245);
+    color:rgb(30, 6, 53);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-decoration: underline;
+}
+
+li{
+    text-align: center;
+    background: plum;
+    color: rgb(15, 8, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+    word-spacing: 0.5rem;
+    text-transform: capitalize;
+}
+
+h2{
+    text-align: center;
+    background: rgb(231, 245, 245);
+    color: purple;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: normal;
+    text-decoration: underline;
+    letter-spacing: normal;
+}
+
+li{
+    text-align: left;
+    background: palegoldenrod;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+    word-spacing: 0.5rem;
+    text-transform: capitalize;
+}
+
+h3{
+    text-align: center;
+    background: rgb(223, 206, 164);
+    color: rgb(73, 22, 22);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: normal;
+    text-decoration: underline;
+    letter-spacing: normal;
+}
+
+li{
+    text-align: left;
+    background: palegoldenrod;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+    word-spacing: 0.5rem;
+    text-transform: capitalize;
+}
